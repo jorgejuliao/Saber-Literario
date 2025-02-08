@@ -1,4 +1,4 @@
-![logo_biblioteca](https://github.com/user-attachments/assets/780fe75f-d0b0-491b-a805-962ea2b0554b)
+![logo_biblioteca](https://github.com/user-attachments/assets/522f164f-66e4-4103-896e-693466339e9d)
 
 
 <h4 align![Uploading logo_frase.png…]()
