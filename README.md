@@ -1,7 +1,6 @@
-![logo_biblioteca](https://github.com/user-attachments/assets/522f164f-66e4-4103-896e-693466339e9d)
+ ![logo-saberliterario](https://github.com/user-attachments/assets/119473c8-761a-4869-b73e-9ad74029af1d)
 
-
-<h4 align![Uploading logo_frase.png…]()
+<h4 align![Uploading logo_frase.png…]() 
 ="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
