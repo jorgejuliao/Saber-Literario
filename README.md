@@ -13,7 +13,7 @@
   # Descrição do projeto 
 
 <p align="justify">
-A Saber Literário é uma biblioteca digital moderna e intuitiva, projetada para oferecer uma experiência completa e eficiente para amantes da leitura e estudantes. Com uma interface amigável e funcionalidades robustas, a plataforma facilita o gerenciamento de acervos, empréstimos e consultas, garantindo praticidade e organização para usuários e administradores.
+O Saber Literário é um sistema de gestão de bibliotecas projetado para oferecer uma experiência completa e eficiente, especialmente para bibliotecas de pequeno porte. Com uma interface amigável e funcionalidades robustas, o sistema facilita o gerenciamento de acervos, empréstimos e consultas, garantindo praticidade e organização para os administradores.
 
 ![Logo  Saber Literário (1)](https://github.com/user-attachments/assets/5edc4cd6-ef7d-4e20-903e-2d2d59e027e7)
 
