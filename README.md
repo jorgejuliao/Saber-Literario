@@ -14,8 +14,12 @@
 
 <p align="justify">
 O Saber Literário é um sistema de gestão de bibliotecas projetado para oferecer uma experiência completa e eficiente, especialmente para bibliotecas de pequeno porte. Com uma interface amigável e funcionalidades robustas, o sistema facilita o gerenciamento de acervos, empréstimos e consultas, garantindo praticidade e organização para os administradores.
-
+  
+<div align="center">
+  
 ![Logo  Saber Literário (1)](https://github.com/user-attachments/assets/5edc4cd6-ef7d-4e20-903e-2d2d59e027e7)
+
+</div>
 
 ![1](https://github.com/user-attachments/assets/e7380072-f9d6-4309-b752-e31ddf457e97)
 
