@@ -4,7 +4,7 @@
   Centro de Educação à Distância Curso de Análise e Desenvolvimento de Sistemas
 
   # Equipe
-  * Vitor Rafael da Silva - 2023010790
+  * Vitor Rafael da Silva -  2023010790
   * Nayana Roberta da Silva Pereira - 2023010807
   * Jorge Luis Juliao de Lima - 2023009655
   * Jerdison Lima Moreira - 2023010164
