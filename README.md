@@ -1,6 +1,6 @@
   # Projeto Integrado III - Sistema de Biblioteca Saber Literário 📚
 
-  # Universidade Federal do Cariri 🎓
+  # Universidade Federal do Cariri   🎓
   Centro de Educação à Distância Curso de Análise e Desenvolvimento de Sistemas
 
   # Equipe
