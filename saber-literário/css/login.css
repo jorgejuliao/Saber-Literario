@@ -104,11 +104,11 @@ header img {
     border: none;
     border-radius: 6px;
     cursor: pointer;
-    box-sizing: border-box; /* Garante que o padding não aumente o tamanho total do botão */
+    box-sizing: border-box; 
 }
 
 .btn-login:hover {
-    background-color: #fbfb04; /* Mantendo o mesmo hover */
+    background-color: #fbfb04; 
 }
 
 
