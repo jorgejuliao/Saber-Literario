@@ -117,6 +117,24 @@ button {
     margin: 5px 0;
 }
 
+.botao {
+    width: 100%;
+    max-width: 229px;
+    height: 38px;
+    background-color: #000;
+    color: #fff;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    margin: 5px 0;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
 .buscaSite {
     display: flex;
     height: 38px;
