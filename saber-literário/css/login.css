@@ -89,19 +89,26 @@ header img {
 
 
 .btn-login {
-    width: 100%; 
-    padding: 15px;
+    display: flex;
+    width: 396px;
+    height: 65px;
+    padding: 12px 103px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
     font-size: 16px;
     font-weight: bold;
-    background-color: #fbfb04; 
-    color: #000; 
+    background-color: #fbfb04;
+    color: #000;
     border: none;
-    border-radius: 6px; 
+    border-radius: 6px;
     cursor: pointer;
+    box-sizing: border-box; /* Garante que o padding não aumente o tamanho total do botão */
 }
 
 .btn-login:hover {
-    background-color: #fbfb04;
+    background-color: #fbfb04; /* Mantendo o mesmo hover */
 }
 
 
