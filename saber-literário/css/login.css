@@ -122,6 +122,16 @@ header img {
     height: auto; 
 }
 
+
+
+footer {
+    text-align: center;
+    font-size: 14px;
+    background-color: #e4e4e4; 
+    padding: 15px 0; 
+    margin-top: 5px;
+}
+
 @media (max-width: 768px) {
     .login-container {
         flex-direction: column; 
@@ -142,8 +152,8 @@ header img {
         max-width: 80%; 
         margin-top: 20px; 
     }
-}
 
+}
 @media (max-width: 480px) {
     .login-container {
         padding: 10px; 
@@ -157,14 +167,4 @@ header img {
         max-width: 100%; 
         height: auto; 
     }
-
-
-footer {
-    text-align: center;
-    font-size: 14px;
-    background-color: #e4e4e4; 
-    padding: 15px 0; 
-    margin-top: 5px;
-}
-
 }
