@@ -14,7 +14,7 @@ body {
 
 
 .header {
-  background-color: #ffeb3b; /* Amarelo vibrante */
+  background-color: #ffeb3b; 
   display: flex;
   justify-content: space-between;
   align-items: center;
