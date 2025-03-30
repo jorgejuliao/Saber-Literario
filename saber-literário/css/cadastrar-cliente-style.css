@@ -73,7 +73,7 @@ body {
   cursor: pointer;
 }
 
-/* Mostra o dropdown ao focar no input */
+
 .dropdown:hover .dropdown-content,
 .dropdown:focus-within .dropdown-content {
   display: block;
